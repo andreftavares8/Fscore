@@ -1,0 +1,1537 @@
+#pagina_corpo {
+    background-color: #E2E2E2;
+}
+
+#menu_top {
+    background-color: #64B4CD;
+    border-style: groove;
+    border-radius: .5rem;
+}
+
+#img_logo {
+    width: 60px;
+    height: 60px;
+}
+
+#txt_menu {
+    font-family: fantasy;
+    font-size: 1.1rem;
+    font-weight: 800;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+}
+
+#txt_menu:hover {
+    color: #D8ECF3;
+}
+
+#icon_favoritos {
+    width: 30px;
+    height: 30px;
+}
+
+#botao_notificacao {
+    position: absolute;
+    margin-left: -6px;
+    margin-top: 2px;
+}
+
+#icon_pesquisa {
+    color: black;
+    height: 30px;
+}
+
+#form_pesquisa {
+    background-color: #D8ECF3;
+    font-family: cursive;
+    height: 2.43rem;
+    border-radius: 1.2rem;
+    height: calc(1.7em + .9rem + 2px);
+    color: black;
+}
+
+#form_pesquisa:hover {
+    background-color: #D8ECF3;
+    height: calc(1.7em + .9rem + 2px);
+}
+
+#form_pesquisa_pos {
+    margin: 0px 70px 0px 0px;
+}
+
+#input_pesquisa {
+    font-size: 1rem;
+    border-color: transparent;
+    background-color: transparent;
+    height: calc(1.6em + .75rem + 2px);
+    height: 2.69rem;
+}
+
+#input_pesquisa:focus {
+    box-shadow: none;
+    color: black;
+    background-color: #D8ECF3;
+    border-color: #64B4CD;
+    height: 2.69rem;
+}
+
+#input_pesquisa:hover {
+    font-size: 1rem;
+    color: black;
+    background-color: #D8ECF3;
+    border-color: #64B4CD;
+    height: 2.69rem;
+}
+
+#botao_pesquisa {
+    background-color: transparent;
+    border-color: transparent;
+    height: 2.69rem;
+}
+
+#botao_pesquisa:hover {
+    background-color: #D8ECF3;
+    border-color: #64B4CD;
+    height: 2.69rem;
+}
+
+#botao_pesquisa:focus {
+    box-shadow: none;
+    background-color: #D8ECF3;
+    height: 2.69rem;
+}
+
+#photo_perfil {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -6px;
+    margin-right: 3px;
+}
+
+#itens_perfil {
+    font-family: cursive;
+    background-color: #D8ECF3;
+    top: 117%;
+    left: 10px;
+    min-width: 11rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 27px 0px;
+    color: #64B4CD;
+    text-align: center;
+}
+
+#itens_perfil:hover {
+    background-color: #D8ECF3;
+}
+
+#img_encontros {
+    position: absolute;
+    width: 100px;
+    margin-top: -129px;
+    margin-left: -270px;
+}
+
+#img_competicoes {
+    position: absolute;
+    width: 100px;
+    margin-top: -129px;
+    margin-left: -54px;
+}
+
+#img_favoritos {
+    position: absolute;
+    width: 100px;
+    margin-top: -129px;
+    margin-left: 167px;
+}
+
+#img_encontros:hover {
+    background-color: #64B4CD;
+    opacity: 50%;
+}
+
+#img_competicoes:hover {
+    background-color: #64B4CD;
+    opacity: 50%;
+}
+
+#img_favoritos:hover {
+    background-color: #64B4CD;
+    opacity: 50%;
+}
+
+#col_login {
+    text-align: center;
+}
+
+#core_text {
+    color: #D8ECF3;
+}
+
+#perfil_login,
+#perfil_registar {
+    border: #D8ECF3;
+    border-style: groove;
+    background-color: #64B4CD;
+    border-radius: 2rem;
+}
+
+#txt_frase {
+    text-align: justify;
+}
+
+#esq_pass {
+    color: black;
+}
+
+#esq_pass:hover {
+    color: #D8ECF3;
+}
+
+#button_login,
+#button_registar {
+    background-color: #E2E2E2;
+    color: #64B4CD;
+    border-radius: 2rem;
+    border-color: #64B4CD;
+}
+
+#button_login:hover,
+#button_registar:hover {
+    color: #64B4CD;
+    border-color: #64B4CD;
+    background-color: #D8ECF3;
+}
+
+#button_login_registar,
+#button_registar_login {
+    background-color: #E2E2E2;
+    color: #64B4CD;
+    border-radius: 2rem;
+    border-color: #64B4CD;
+}
+
+#button_login_registar:hover,
+#button_registar_login:hover {
+    color: #64B4CD;
+    border-color: #64B4CD;
+    background-color: #D8ECF3;
+}
+
+#cria_nova_conta,
+#regista_nova_sessao {
+    font-size: 12px;
+    color: #D8ECF3;
+    font-family: cursive;
+    text-align: center;
+}
+
+#b_card {
+    background-color: transparent;
+    border: transparent;
+}
+
+#user {
+    color: #D8ECF3;
+    padding-left: 2.5rem;
+    margin-left: 10px;
+}
+
+#dropdownMenuLink:hover {
+    text-decoration: none;
+}
+
+#rodape {
+    background-color: #64B4CD;
+}
+
+#img_pais {
+    width: 50px;
+    height: 30px;
+    border-radius: 20%;
+}
+
+
+/* encontros*/
+
+#img_federation,
+#img_logo_competition {
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+}
+
+#logo_team {
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+}
+
+#todos_jogos_encontros {
+    font-size: 18px;
+    color: #5A6978;
+    font-weight: 900;
+}
+
+#paises_encontros,
+#paises_competicoes {
+    font-size: 16px;
+    color: #5A6978;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#competicoes_encontros {
+    font-size: 15px;
+    color: #5A6978;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+}
+
+#equipas_encontros {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#txt_team_home_encontros {
+    text-align: end;
+}
+
+#txt_team_away_encontros {
+    text-align: start;
+}
+
+#scores_encontros {
+    font-size: 16px;
+    color: #64B4CD;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#equipas_encontros_sty,
+#competicoes_competicoes_sty {
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+}
+
+#equipas_encontros_sty:hover,
+#competicoes_competicoes_sty:hover {
+    background-color: #D8ECF3;
+}
+
+#competicoes_encontros_sty,
+#paises_encontros_sty,
+#paises_competicoes_sty {
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+    background-color: #d6d8db;
+}
+
+#competicoes_encontros_sty:hover,
+#paises_encontros_sty:hover,
+#paises_competicoes_sty:hover {
+    background-color: #64B4CD;
+}
+
+#jogos_encontros_sty {
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+}
+
+#jogos_encontros_sty:hover {
+    background-color: #d6d8db;
+}
+
+#time_encontros {
+    font-size: 16px;
+    color: #64B4CD;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: -webkit-baseline-middle;
+}
+
+
+/*competicoes*/
+
+#competicoes_competicoes {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: start;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#logo_competicoes_competicoes {
+    text-align: end;
+}
+
+
+/*favoritos*/
+
+#elemina_fav,
+#btn_logout {
+    text-align: center;
+    align-self: center;
+}
+
+#button_logout,
+#button_elimina_fav {
+    background-color: #E2E2E2;
+    color: #64B4CD;
+    border-radius: 2rem;
+    border-color: #64B4CD;
+}
+
+#button_logout:hover,
+#button_elimina_fav:hover {
+    color: #64B4CD;
+    border-color: #64B4CD;
+    background-color: #D8ECF3;
+    text-decoration: none;
+}
+
+#no_event {
+    width: 150px;
+    height: 150px;
+}
+
+#no_event_text {
+    text-align: center;
+    font-size: 16px;
+    color: #64B4CD;
+    font-weight: 900;
+}
+
+#photo_user_fav {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#utilizador_fav_perfil {
+    color: #64B4CD;
+    text-decoration: none;
+}
+
+#utilizador_fav_perfil:hover {
+    color: black;
+    text-decoration: none;
+}
+
+#photo_player_fav,
+#photo_manager_fav,
+#logo_team_fav {
+    width: 50px;
+    height: 50px;
+    border-radius: 40%;
+}
+
+#logo_comp_fav_competicao {
+    width: 50px;
+    height: 50px;
+    border-radius: 40%;
+}
+
+#logo_team_fav {
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+}
+
+#favs_titulo {
+    text-align: center;
+    font-variant: all-small-caps;
+    padding: 1rem;
+    color: #5A6978;
+    font-size: 18px;
+}
+
+#todos_fav {
+    text-align: center;
+    font-variant: all-small-caps;
+    padding: 1rem;
+    color: #5A6978;
+    font-size: 14px;
+}
+
+#titulo_favs {
+    margin-top: 30px;
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+    margin-right: 30px;
+}
+
+#todos_fav_add {
+    text-align: center;
+    padding: 1rem;
+    color: #5A6978;
+    font-size: 14px;
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+    margin-right: 30px;
+    height: 10rem;
+    font-weight: bold;
+}
+
+#todos_fav_add:hover {
+    color: black;
+    background-color: #D8ECF3;
+}
+
+#fav_col {
+    margin-left: 4px;
+}
+
+#logo_flag_fav_pais {
+    width: 30px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+#logo_team_fav_team {
+    width: 30px;
+    height: 30px;
+    border-radius: 30%;
+}
+
+#todos_fav_conteudo {
+    padding-block-end: 20rem;
+}
+
+#a_fav {
+    color: #5A6978;
+    text-decoration: none;
+}
+
+#a_fav:hover {
+    background-color: #D8ECF3;
+}
+
+
+/*jogo dos encontros*/
+
+#logo_team_jogo {
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
+}
+
+#team_home_jogo,
+#competicao_pais_jogo,
+#team_away_jogo {
+    text-align: center;
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#img_pais_jogo {
+    width: 30px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+#img_comp_jogo {
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+}
+
+#scores,
+#time_jogo {
+    font-size: 16px;
+    color: #64B4CD;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 1.5rem;
+}
+
+#form-data-encontros {
+    margin-left: 800px;
+}
+
+#scores_time {
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: 500;
+}
+
+#menu1,
+#menu2,
+#menu3,
+#menu4,
+#menu5 {
+    color: #64B4CD;
+    font-size: 18px;
+}
+
+#menu1:hover,
+#menu2:hover,
+#menu3:hover,
+#menu4:hover,
+#menu5:hover {
+    color: #5A6978;
+}
+
+#logokit_team_jogo {
+    width: 100px;
+    height: 100px;
+}
+
+#photo_player_jogo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+#logo_team_jogo_sta {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#item_jogo {
+    width: 17px;
+    height: 17px;
+}
+
+#txt_player_casa_name,
+#txt_player_fora_name {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#txt_player_fora,
+#txt_player_casa {
+    font-size: 12px;
+    color: #64B4CD;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#row_play_casa {
+    text-align: start;
+    align-items: center;
+}
+
+#row_play_fora {
+    text-align: end;
+    align-items: center;
+}
+
+#col_play_casa {
+    text-align: center;
+}
+
+#col_play_fora {
+    text-align: center;
+}
+
+#ant_jogo_casa {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 50px;
+    text-align: center;
+    padding: 1rem;
+    background-color: cadetblue;
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#ant_jogo_fora {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 50px;
+    text-align: center;
+    padding: 1rem;
+    background-color: cadetblue;
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#a_play {
+    color: transparent;
+    text-decoration: none;
+}
+
+#a_play:hover {
+    background-color: transparent;
+}
+
+#inf_partida {
+    margin: 14px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#inf_partida_det {
+    margin: 14px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+#info_row {
+    background-color: rgba(90, 105, 120, 0.281);
+    align-self: start;
+    margin: 1px;
+    text-decoration: none;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#inf_partida_prob {
+    margin: 14px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+    color: #64B4CD;
+}
+
+#mostrar_mais {
+    margin: 12px;
+    text-decoration: underline;
+    text-align: start;
+    font-weight: bolder;
+    color: #64B4CD;
+}
+
+#mostrar_mais:hover {
+    color: #0A8DFF;
+}
+
+#prob_txt {
+    text-align: center;
+}
+
+#info_row_prob {
+    background-color: rgba(90, 105, 120, 0.281);
+    align-self: center;
+    margin: 1px;
+    text-decoration: none;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#span_txt_prob1 {
+    padding-left: 8rem;
+}
+
+#span_txt_prob2 {
+    padding-right: 8rem;
+}
+
+#span_prob1 {
+    padding-left: 12rem;
+}
+
+#span_prob2 {
+    padding-left: 3.5rem;
+}
+
+#row_prob_gols {
+    padding-left: 9rem;
+}
+
+#sta_team_jogo {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    font-size: 16px;
+    color: #5A6978;
+    width: 300px;
+    height: 200px;
+}
+
+#logosta_team_jogo {
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
+
+#sta2 {
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#sta1 {
+    border-bottom: groove;
+    border-color: #D8ECF3;
+    border-width: 2px;
+    text-align: center;
+    color: #5A6978;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#sta2:hover,
+#sta1:hover {
+    background-color: #64B4CD;
+}
+
+#row_sta {
+    color: #64B4CD;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#row_play_sta {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+#stadium_jogo {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    font-size: 16px;
+    color: #5A6978;
+    text-align: center;
+    font-weight: bolder;
+    background-color: #F1F2F5;
+}
+
+#nome_sta {
+    color: #64B4CD;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+#terreno_jogo_det {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem;
+    background-color: beige;
+}
+
+#terreno_jogo_stat {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem;
+    background-color: #F1F2F5;
+}
+
+#retangulo {
+    width: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+    right: 0px;
+    background: 90% 35% / 12px no-repeat rgb(14, 135, 224);
+    background-position: 90% 35%;
+    border-radius: 3px;
+}
+
+#star_jogo {
+    width: 10px;
+    height: 10px;
+    vertical-align: inherit;
+}
+
+#terreno_jogo {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem;
+    background-color: forestgreen;
+}
+
+#modal_prin {
+    background-color: #64B4CD;
+}
+
+#header_mod,
+#body_mod {
+    color: #5A6978;
+    text-align: center;
+}
+
+#team_mod {
+    color: black;
+}
+
+.nav-pills>li>a.active {
+    color: #D8ECF3!important;
+    border-radius: 0px 90px 0px 90px!important;
+    text-align: center;
+    height: 40px;
+    background-color: #64B4CD!important;
+    text-decoration: none!important;
+    width: 125px;
+}
+
+.nav-pills>li>a.active:hover {
+    color: #5A6978!important;
+}
+
+.gj>datepicker>md>[role=right-icon] {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 50px!important;
+}
+
+#gk_fora_4132 {}
+
+#dd_fora_4132 {}
+
+#de_fora_4132 {}
+
+#dcd_fora_4132 {}
+
+#dce_fora_4132 {}
+
+#mdc_fora_4132 {}
+
+#mce_fora_4132 {}
+
+#mcd_fora_4132 {}
+
+#mc_fora_4132 {}
+
+#fwr_fora_4132 {}
+
+#fwe_fora_4132 {}
+
+
+/* equipas*/
+
+#img_team_logo_equipa {
+    width: 80px;
+    height: 80px;
+}
+
+#img_pais_flag_equipa {
+    width: 30px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+#team_equipa {
+    text-align: start;
+    font-size: 12px;
+    color: #5A6978;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#txt_team_equipas {
+    text-align: start;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#team_equipa_logo {
+    text-align: end;
+    font-size: 12px;
+    color: #5A6978;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#logo_kit_equipa_away {
+    text-align: center;
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#logo_kit_equipa_home {
+    text-align: center;
+    font-size: 14px;
+    color: #5A6978;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#btn_da_equipa {
+    text-align: start;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#btn_seguindo {
+    background-color: #E2E2E2;
+    color: #5A6978;
+    border-radius: 2rem;
+    border-color: #64B4CD;
+    font-size: 12px;
+    font-weight: bold;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#btn_seguindo:hover {
+    color: #64B4CD;
+    border-color: #64B4CD;
+    background-color: #D8ECF3;
+}
+
+#btn_seguindo:focus {
+    box-shadow: none;
+}
+
+#btn_seguir,
+#btn_seguindo,
+#btn_seguir1,
+#btn_seguir2,
+#btn_seguindo1,
+#btn_seguindo2 {
+    background-color: #E2E2E2;
+    color: #5A6978;
+    border-radius: 2rem;
+    border-color: #64B4CD;
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#btn_seguir:hover,
+#btn_seguindo:hover,
+#btn_seguir1:hover,
+#btn_seguir2:hover,
+#btn_seguindo1:hover,
+#btn_seguindo2:hover {
+    color: #64B4CD;
+    border-color: #64B4CD;
+    background-color: #D8ECF3;
+}
+
+#btn_seguir:focus,
+#btn_seguindo:focus,
+#btn_seguir1:focus,
+#btn_seguir2:focus,
+#btn_seguindo1:focus,
+#btn_seguindo2:focus {
+    box-shadow: none;
+}
+
+#seguidores {
+    color: #64B4CD;
+    font-size: 12px;
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 12px;
+}
+
+#txt_seg {
+    color: black;
+    margin-left: 5px;
+    font-size: 12px;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#seguir_alert {
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+}
+
+#btn_but {
+    text-align: center;
+}
+
+#seg_jog {
+    color: #64B4CD;
+    font-size: 12px;
+    margin-left: 12px;
+}
+
+#txt_seg_jog {
+    color: black;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+#player_equipa {
+    background-color: rgba(90, 105, 120, 0.281);
+    align-self: self-start;
+    margin: 14px;
+    text-decoration: none;
+}
+
+#player_equipa:hover {
+    background-color: #D8ECF3;
+}
+
+#lin_players_equipa {
+    text-align: center;
+    text-decoration: none;
+}
+
+#photo_player_equipa {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+#txt_player_equipa {
+    color: darkblue;
+    font-size: 14px;
+    font-family: cursive;
+    flex-flow: column-reverse;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#number_shirt_equipa {
+    vertical-align: middle;
+    color: #64B4CD;
+    font-size: larger;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+#numero_efect {
+    border-radius: 50%;
+    background-color: #5A6978;
+    color: black;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: -34px 10px 10px 100px;
+    text-decoration: none;
+}
+
+#flag_play_equipa {
+    flex-direction: row-reverse;
+    color: #5A6978;
+    text-decoration: none;
+}
+
+#pos_play_equipa {
+    cursor: vertical-text;
+    text-decoration: none;
+}
+
+#red_equip {
+    color: #FC8400;
+    text-decoration: none;
+}
+
+#def_equip {
+    color: #0A8DFF;
+    text-decoration: none;
+}
+
+#med_equip {
+    color: #52B030;
+    text-decoration: none;
+}
+
+#avan_equip {
+    color: #ED1C24;
+    text-decoration: none;
+}
+
+#player_equipa_jog {
+    border-bottom-style: groove;
+    color: black;
+    text-decoration: none;
+}
+
+#player_equipa_joga {
+    font-size: larger;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: none;
+}
+
+#manager_equipa {
+    background-color: rgba(90, 105, 120, 0.281);
+    text-align: -webkit-center;
+}
+
+#manager_equipa:hover {
+    background-color: #D8ECF3;
+}
+
+#a_jog {
+    background-color: transparent;
+    color: transparent;
+    text-decoration: none;
+}
+
+#info_club {
+    border-bottom: groove;
+    padding: 1rem;
+}
+
+#info_clu_sta {
+    padding: 1rem;
+    text-align: center;
+}
+
+#info_sta {
+    padding: 2rem;
+}
+
+#info_row:hover {
+    background-color: #F1F2F5;
+}
+
+#pla_macth_span {
+    color: white;
+}
+
+#span_det {
+    color: black;
+    font-weight: bold;
+}
+
+#span_det:hover {
+    color: #5A6978;
+}
+
+#det_col {
+    text-align: center;
+}
+
+#equip_info {
+    border-bottom-style: groove;
+    color: black;
+    text-decoration: none;
+    margin: 13px 11px 12px 10px;
+}
+
+#sem_cor {
+    background-color: #E2E2E2;
+}
+
+#t_info {
+    color: #5A6978;
+}
+
+#info_row_club_equi,
+#info_row_club_sta {
+    background-color: rgba(90, 105, 120, 0.281);
+    align-self: start;
+    text-decoration: none;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#txt_info {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: end;
+}
+
+#abv_team {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+#name_comp {
+    font-size: larger;
+    color: #5A6978;
+    font-weight: 900;
+    text-align: start;
+}
+
+#img_stad_equi {
+    border: #D8ECF3;
+    border-style: groove;
+    border-radius: 2rem;
+    font-size: 16px;
+    color: #5A6978;
+    width: 300px;
+    height: 200px;
+}
+
+#row_fund {
+    padding-block-end: 20rem;
+}
+
+#img_comp_equi {
+    width: 40px;
+    height: 40px;
+}
+
+#col_comp_equi {
+    background-color: rgba(90, 105, 120, 0.281);
+}
+
+#img_log_equi {
+    width: 40px;
+    height: 40px;
+}
+
+#img_comp_trof {
+    width: 50px;
+    height: 50px;
+}
+
+#logo_comp_equip {
+    padding: 1rem;
+    text-align: end;
+}
+
+#txt_comp_equip {
+    padding: 1.5rem;
+    color: #5A6978;
+    font-weight: bolder;
+}
+
+#log_h_equi {
+    text-align: end;
+    font-size: 18px;
+    padding: 1rem;
+    color: black;
+    font-weight: bold;
+}
+
+#log_a_aqui {
+    text-align: start;
+    font-size: 18px;
+    padding: 1rem;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#date_equip {
+    font-size: 16px;
+    color: #64B4CD;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 800;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+#score_equip {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 800;
+}
+
+#da_vert {
+    align-self: center;
+}
+
+#jog_emp {
+    color: #5A6978;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 800;
+}
+
+#jog_perd {
+    color: #ED1C24;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 800;
+}
+
+#jog_gan {
+    color: darkgreen;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 800;
+}
+
+#jog_tra {
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+#efect_jog_vitoria {
+    border-radius: 50%;
+    background-color: #52B030;
+    color: darkblue;
+    font-family: cursive;
+    width: 30px;
+    font-size: 22px;
+    height: 30px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+}
+
+#efect_jog_perdido {
+    border-radius: 50%;
+    background-color: #C1272D;
+    color: darkblue;
+    font-family: cursive;
+    width: 30px;
+    font-size: 22px;
+    height: 30px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+}
+
+#efect_jog_empate {
+    border-radius: 50%;
+    background-color: #A4AAB0;
+    color: darkblue;
+    font-family: cursive;
+    width: 30px;
+    font-size: 22px;
+    height: 30px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+}
+
+#cor_jogo {
+    place-self: center;
+    text-align: -webkit-center;
+}
+
+#row_tit_comp {
+    border-bottom: groove;
+}
+
+#row_tit_comp {
+    padding: 1rem;
+    color: #5A6978;
+}
+
+#temp {
+    text-align: start;
+}
+
+#tit {
+    text-align: end;
+}
+
+#tit_equi {
+    padding: 1rem;
+    color: #5A6978;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: fantasy;
+}
+
+#img_comp_trof {
+    text-align: center;
+}
+
+#temp_comp_trof {
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    align-self: center;
+}
+
+#img_log_comp_trof {
+    align-self: center;
+    text-align: center;
+}
+
+#name_comp_trf {
+    text-align: start;
+    align-self: center;
+    font-size: 16px;
+    color: #5A6978;
+    font-weight: bold;
+}
+
+#tip_tit {
+    text-align: end;
+    align-self: center;
+    font-size: 16px;
+    color: #5A6978;
+    font-weight: bold;
+}
+
+#img_play,
+#img_log_play {
+    width: 30px;
+    height: 30px;
+}
+
+#icons_play {
+    border-bottom-style: groove;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+#row_play {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+#col_info_play {
+    text-align-last: center;
+}
+
+#row_info_play {
+    font-size: 16px;
+    color: #5A6978;
+    font-weight: bold;
+}
