@@ -1,0 +1,20 @@
+Esta aplicação 
+
+dá para ver os jogos no dia 25-01-2020 na equipa flograde para ver os jogadores antes de o jogo ter algum resultado
+
+no dia 29-09-2019 tambem o jogo da flograde para ver informaçoes dos jogadores e estatisticas daquele jogo.
+
+
+jogadores só da para ver jogadores da florgrade
+
+nas competicoes petiçoes o pais portugal redereciona para equipa internacional e dá para ver os jogadores
+
+
+dá tambem para pesquisar jogadores equipas treinadores e competiçoes 
+
+
+
+
+/*Prototipo*/
+https://marvelapp.com/d5i1a5e/screen/63761432
+
